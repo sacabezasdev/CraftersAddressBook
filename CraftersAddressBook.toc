@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: CraftersAddressBook
+## Notes: Guarda contactos y links de profesiones para WoW 3.3.5.
+## Author: Santiago, Codex
+## Version: 0.1.8
+## X-Schema-Version: 1
+## SavedVariables: CraftersAddressBookDB
+
+Core.lua
